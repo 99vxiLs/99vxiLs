@@ -1,1 +1,1 @@
-print"(haloduniaw)"
+print "(hlna)"
